@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(to right,rgb(224, 201, 201),rgb(223, 156, 200));
+    text-align: center;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    letter-spacing: 10px;
+    font-style: oblique;
+}
+label{
+    margin-left: 30px;
+}
+.resultImg{
+    background-color: white;
+    border: 1px solid blue;
+    width: 800px;
+    height: 400px;
+    margin:20px auto;
+    text-align: center;
+}
